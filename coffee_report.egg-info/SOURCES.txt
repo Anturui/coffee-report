@@ -1,0 +1,17 @@
+pyproject.toml
+coffee_report/__init__.py
+coffee_report/cli.py
+coffee_report/formatters.py
+coffee_report/readers.py
+coffee_report.egg-info/PKG-INFO
+coffee_report.egg-info/SOURCES.txt
+coffee_report.egg-info/dependency_links.txt
+coffee_report.egg-info/requires.txt
+coffee_report.egg-info/top_level.txt
+coffee_report/reports/__init__.py
+coffee_report/reports/average_sleep.py
+coffee_report/reports/base.py
+coffee_report/reports/median_coffee.py
+coffee_report/reports/registry.py
+tests/test_readers.py
+tests/test_reports.py

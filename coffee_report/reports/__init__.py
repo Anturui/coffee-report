@@ -1,0 +1,2 @@
+from .median_coffee import MedianCoffeeReport
+from .average_sleep import AverageSleepReport
