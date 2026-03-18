@@ -33,7 +33,7 @@ python -m coffee_report.cli --files data/math.csv --report median-coffee
 
 **Результат:**
 
-![Пример запуска](Screenshot_13.png)
+![Пример запуска](Screenshot_13.jpg)
 
 *Таблица отсортирована по убыванию медианных трат на кофе*
 
